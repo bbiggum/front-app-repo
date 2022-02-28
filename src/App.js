@@ -64,7 +64,7 @@ function App(props) {
             align="center"
             className={classes.title}
           >
-            Serin&Doyoon's Happy House
+            Serin has a happy house :-)
           </Typography>
           {new Date().toLocaleTimeString()}
         </Toolbar>
